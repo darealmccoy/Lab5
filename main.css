@@ -40,8 +40,15 @@ p{
 	text-align: left;
 	}
 img {
-	padding-top: 100%;
+	position:  absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+.image {
+	position: relative;
 	max-width: 50%;
 	width: 200px;
-	border: none:
-}
+	padding-top: 100%;
+	}
