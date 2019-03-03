@@ -45,10 +45,11 @@ img {
 	left: 0;
 	bottom: 0;
 	right: 0;
-}
-.image {
-	position: relative;
 	max-width: 50%;
 	width: 200px;
 	padding-top: 100%;
+}
+.image {
+	position: relative;
+	
 	}
