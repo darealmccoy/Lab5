@@ -46,3 +46,10 @@ img {
 	height: auto;
 	
 }
+table {
+	border-collapse: collapse;
+	width: 50%;
+	}	
+tr:nth-child(even) {
+	background-color: #ffffff;
+	}
