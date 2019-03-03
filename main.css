@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|ZCOOL+QingKe+HuangYou');
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -14,7 +14,7 @@ h1 {
 	font-weight: bolder;
 	font-style: normal;
 	color: navy;
-	background-color: teal;
+	/*background-color: teal;*/
 	text-align: center;
 	}
 h2{
@@ -22,12 +22,19 @@ h2{
 	font-weight: bold;
 	font-style: normal;
 	color: navy;
-	background-color: teal;
+	/*background-color: teal;*/
 	text-align: center;
 	}
 h4{
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
-	font-weight: normal;
+	font-weight: 450;
+	font-style: normal;
+	color: navy;
+	text-align: right;
+	}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 450;
 	font-style: normal;
 	color: navy;
 	text-align: left;
