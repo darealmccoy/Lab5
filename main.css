@@ -38,7 +38,7 @@ img {
 	width: 50%;
 	height: auto;
 	
-}
+	}
 table {
 	border-collapse: collapse;
 	width: 50%;
@@ -53,4 +53,12 @@ th {
 td {
 	text-align: left;
 	}
-	
+.column {
+		float: left;
+		width: 50%;
+		}
+.row:after {
+		content: "";
+		display: table;
+		clear: both;
+}
