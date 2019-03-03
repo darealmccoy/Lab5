@@ -40,6 +40,7 @@ p{
 	text-align: left;
 	}
 img {
-	height: 500px;
+	padding-top: 100%;
+	max-width: 50%;
 	width: 500px;
 }
