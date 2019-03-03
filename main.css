@@ -41,13 +41,8 @@ p{
 	}
 img {
 	max-width: 250px;
-	max-height: 250px;
-	
+	max-height: auto;
+	width: 50%;
+	height: auto;
 	
 }
-.layer {
-	position: relative;
-	max-width: 50%;
-	width: 200px;
-	padding-top: 100%;
-	}
