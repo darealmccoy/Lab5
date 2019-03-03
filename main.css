@@ -25,13 +25,6 @@ h2{
 	/*background-color: teal;*/
 	text-align: center;
 	}
-h4{
-	font-family: 'ZCOOL QingKe HuangYou', cursive;
-	font-weight: 450;
-	font-style: normal;
-	color: navy;
-	text-align: right;
-	}
 p{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 450;
@@ -49,8 +42,15 @@ img {
 table {
 	border-collapse: collapse;
 	width: 50%;
-	text-align:left;
+
 	}	
 tr:nth-child(even) {
 	background-color: #ffffff;
 	}
+th {
+	text-align: right;
+	}
+td {
+	text-align: left;
+	}
+	
