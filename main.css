@@ -33,25 +33,25 @@ p{
 	text-align: left;
 	}
 img {
-	max-width: 250px;
+	max-width: 300px;
 	max-height: auto;
-	width: 50%;
+	width: 300px;
 	height: auto;
 	
 	}
 table {
 	border-collapse: collapse;
-	width: 50%;
 
 	}	
 tr:nth-child(even) {
 	background-color: #ffffff;
 	}
 th {
-	text-align: right;
+	text-align: left;
+	min-width: 200px;
 	}
 td {
-	text-align: left;
+	text-align: right;
 	}
 .column {
 		float: left;
